@@ -1,0 +1,13 @@
+body {
+  height: 100%;
+  font-family: 'Open Sans';
+  background-color: var(--violet);
+  position: relative;
+}
+
+.container {
+  width: 90%;
+  max-width: 76.25rem;
+  margin-inline: auto;
+  padding-block: 2.25rem;
+}
