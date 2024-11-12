@@ -1,5 +1,6 @@
 # Huddle
 Reto de frontend mentor de landng page con HTML y CSS
+[Landing huddle](https://daniback95.github.io/landing-huddle/)
 
 ## Mobile
 ![mobile](https://github.com/user-attachments/assets/7b20c071-6fa8-492d-85d1-67f38a8c45c7)
